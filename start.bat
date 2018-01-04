@@ -1,0 +1,1 @@
+java -jar target/EmiratesTaskBoard-1.0.0.jar -Dspring.profiles.active=default

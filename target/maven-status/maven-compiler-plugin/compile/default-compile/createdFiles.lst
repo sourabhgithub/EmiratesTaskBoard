@@ -1,0 +1,9 @@
+com\emirates\springboot\model\Task.class
+com\emirates\springboot\service\TaskServiceImpl.class
+com\emirates\springboot\controller\RestApiController.class
+com\emirates\springboot\util\CustomErrorType.class
+com\emirates\springboot\configuration\JpaConfiguration.class
+com\emirates\springboot\controller\AppController.class
+com\emirates\springboot\repositories\TaskRepository.class
+com\emirates\springboot\EmiratesApp.class
+com\emirates\springboot\service\TaskService.class
